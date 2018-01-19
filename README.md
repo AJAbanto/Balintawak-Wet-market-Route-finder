@@ -17,8 +17,8 @@ The Genetic algorithm library tsp.h and tsp.cpp was taken from marcoscastros's t
 Link: https://github.com/marcoscastro/tsp_genetic 
 
 ## Status:
-Under development
-Thins to do:
+Underdevelopment
+Things to do:
 - [x] Read Sample data from .csv files
 - [x] Modify fitness function to consider presence of essential nodes in fitness calculation
 - [ ] Construct decision making code to determine which vertices are essential nodes

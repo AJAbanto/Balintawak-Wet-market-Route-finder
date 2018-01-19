@@ -19,7 +19,7 @@ Link: https://github.com/marcoscastro/tsp_genetic
 ## Status:
 Under development
 Thins to do:
--[x] Read Sample data from .csv files
--[x] Modify fitness function to consider presence of essential nodes in fitness calculation
--[] Construct decision making code to determine which vertices are essential nodes
+- [x] Read Sample data from .csv files
+- [x] Modify fitness function to consider presence of essential nodes in fitness calculation
+- [] Construct decision making code to determine which vertices are essential nodes
 
